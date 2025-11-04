@@ -22,7 +22,7 @@ Me chamo Christtyan Fernandes Silva Santos, tenho 18 anos e sou natural de São 
     align="left" 
     alt="SQL"
     title="SQL" 
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -30,26 +30,20 @@ Me chamo Christtyan Fernandes Silva Santos, tenho 18 anos e sou natural de São 
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JAVA"
     title="JAVA" 
-    width="30px" 
+    width="42px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+
 
 
 <br/>
