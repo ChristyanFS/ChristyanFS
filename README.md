@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Christtyan Fernandes Silva Santos, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informação na UNIP. Sou apaixonado por tecnologia o que me levou a conhecer a programação, e o que mais me motiva nessa área é a possibilidade de resolver problemas e transformar ideias em soluções. Estou sempre buscando evoluir, aprender e me desafiar nesse universo em constante mudança.
+Me chamo Christtyan Fernandes Silva Santos, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas de Informação na UNIP. Sou apaixonado por tecnologia o que me levou a conhecer a programação, e o que mais me motiva nessa área é a possibilidade de resolver problemas e transformar ideias em soluções. Estou sempre buscando evoluir, aprender e me desafiar nesse universo em constante mudança.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/christyanfernandes/">
